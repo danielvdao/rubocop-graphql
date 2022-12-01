@@ -124,3 +124,7 @@ GraphQL/UnnecessaryFieldAlias:
 GraphQL/UnnecessaryFieldCamelize:
   Enabled: true
   Description: "Camelize isn't necessary if the field name doesn't contain underscores"
+
+GraphQL/LongFieldDescription:
+  Enabled: true
+  Description: "Description is too long"
